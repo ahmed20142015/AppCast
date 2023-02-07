@@ -263,6 +263,11 @@
           "showSubcategory": false,
           "brand": "407",
           "image": "https://promise.com.sa/image/cache/catalog/banners/Cerave-1242x466.jpg"
+        },
+        {
+          "showSubcategory": false,
+          "category": "150",
+          "image": "https://promise.com.sa/image/cache/catalog/banners/Buy%20one%20Get%20One-1242x466.jpg"
         }
       ]
     },
