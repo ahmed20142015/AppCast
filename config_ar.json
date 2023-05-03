@@ -186,30 +186,29 @@
       "items": [
         {
           "showSubcategory": false,
-          "brand": "104",
-          "image": "https://promise.com.sa/image/cache/catalog/banners/Vichy-1242x466.jpg"
+          "brand": "187",
+          "image": "https://promise.com.sa/image/cache/catalog/banners/-%D9%8A%D9%88%D8%B3%D8%B1%D9%8A%D9%86-1242x466.jpg"
         },
         {
           "showSubcategory": false,
-          "brand": "88",
-          "image": "https://promise.com.sa/image/cache/catalog/banners/Bioderma-1242x466.jpg"
+          "category": "1",
+          "image": "https://promise.com.sa/image/cache/catalog/banners/Eid%20Offer-1242x466.jpg"
         },
         {
           "showSubcategory": false,
-          "brand": "329",
-          "image": "https://promise.com.sa/image/cache/catalog/banners/La%20Roche-1242x466.jpg"
-        },
-        {
-          "showSubcategory": false,
-          "brand": "407",
-          "image": "https://promise.com.sa/image/cache/catalog/banners/Cerave-1242x466.jpg"
+          "category": "151",
+          "image": "https://promise.com.sa/image/cache/catalog/banners/Whitening%20Offer-1242x466.jpg"
         },
         {
           "showSubcategory": false,
           "category": "150",
-          "image": "https://promise.com.sa/image/cache/catalog/banners/Buy%20one%20Get%20One-1242x466.jpg"
+          "image": "https://promise.com.sa/image/cache/catalog/banners/1+1-1242x466.jpg"
+        },
+        {
+          "showSubcategory": false,
+          "brand": "329",
+          "image": "https://promise.com.sa/image/cache/catalog/banners/La%20Rouche-1242x466.png"
         }
-        
       ]
     },
     {
