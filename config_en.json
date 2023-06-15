@@ -244,15 +244,20 @@
       "layout": "bannerImage",
       "showNumber": false,
       "items": [
-       {
+        {
           "showSubcategory": false,
-          "category": "153",
-          "image": "https://promise.com.sa/image/cache/catalog/Untitled%20(2)-1242x466.png"
+          "brand": "812",
+          "image": "https://promise.com.sa/image/cache/catalog/banners/Penduline-3277x1230.jpg"
         },
         {
           "showSubcategory": false,
-          "brand": "187",
-          "image": "https://promise.com.sa/image/cache/catalog/banners/-يوسرين-1242x466.jpg"
+          "brand": "811",
+          "image": "https://promise.com.sa/image/cache/catalog/banners/50%20pierre%20rane-3277x1230.jpg"
+        },
+        {
+          "showSubcategory": false,
+          "category": "153",
+          "image": "https://promise.com.sa/image/cache/catalog/banners/baby%20care-1280x480.jpeg"
         },
         {
           "showSubcategory": false,
@@ -261,8 +266,8 @@
         },
         {
           "showSubcategory": false,
-          "category": "84",
-          "image": "https://promise.com.sa/image/cache/catalog/Promise-222-1242x466.jpg"
+          "category": "153",
+          "image": "https://promise.com.sa/image/cache/catalog/Untitled%20(3)-1242x466.png"
         }
       ]
     },
@@ -318,21 +323,21 @@
       "items": [
         {
           "productLength": 3,
-          "image": "https://promise.com.sa/image/cache/catalog/banners/Untitled%20(3)-1080x1080.png",
+          "image": "https://promise.com.sa/image/cache/catalog/Artboard%205%20copy%2018-1081x1081.png",
           "defaultShowProduct": false,
           "padding": 15,
           "showSubcategory": false,
           "bannerWithProduct": false,
-          "brand": "556"
+          "brand": "187"
         },
         {
           "productLength": 3,
-          "image": "https://promise.com.sa/image/cache/catalog/banners/Oz%20natural-2268x2268.jpg",
+          "image": "https://promise.com.sa/image/cache/catalog/Artboard%205%20copy%2014-1081x1081.png",
           "defaultShowProduct": false,
           "padding": 15,
           "showSubcategory": false,
           "bannerWithProduct": false,
-          "brand": "116"
+          "category": "3"
         }
       ],
       "fit": "fitWidth",
